@@ -8,5 +8,6 @@ public class Test {
         System.out.println("第六次");
 
         System.out.println("第1次");
+        System.out.println("第2次");
     }
 }
